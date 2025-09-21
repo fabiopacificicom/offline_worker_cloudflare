@@ -3,7 +3,31 @@ const PROTEST_HTML = `<!DOCTYPE html>
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!-- Primary Meta Tags -->
 <title>Offline in Solidarity with Gaza</title>
+<meta name="description" content="This website is offline for 48+ hours in protest of the ongoing genocide in Gaza. Silence is complicity. We choose to act.">
+
+<!-- Open Graph / Facebook / WhatsApp -->
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://offline-worker-gaza-2025.signups-a98.workers.dev/">
+<meta property="og:title" content="⛔ OFFLINE IN SOLIDARITY WITH GAZA">
+<meta property="og:description" content="This website is intentionally paused to protest the genocide in Gaza. Join the call for an immediate ceasefire.">
+<meta property="og:image" content="https://raw.githubusercontent.com/fabiopacificicom/offline_worker_cloudflare/main/src/free_palestine_stop_genocide.jpeg">
+<meta property="og:image:alt" content="Palestinian flag in Gaza's ruins with empty school chairs — symbolizing lost childhoods">
+<meta property="og:site_name" content="Offline in Solidarity">
+
+<!-- Twitter -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@PCRF"> <!-- or your handle, if you prefer -->
+<meta name="twitter:title" content="⛔ OFFLINE IN SOLIDARITY WITH GAZA">
+<meta name="twitter:description" content="This website is offline for 48 hours to protest the genocide in Gaza. Silence is complicity. We choose to act.">
+<meta name="twitter:image" content="https://raw.githubusercontent.com/fabiopacificicom/offline_worker_cloudflare/main/src/free_palestine_stop_genocide.jpeg">
+<meta name="twitter:image:alt" content="Palestinian flag in Gaza's ruins with empty school chairs">
+
+<!-- Canonical -->
+<link rel="canonical" href="https://offline-worker-gaza-2025.signups-a98.workers.dev/" />
+
+
 <style>
 body {
 background: #111;
