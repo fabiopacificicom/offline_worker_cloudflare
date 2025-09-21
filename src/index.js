@@ -47,7 +47,7 @@ color: #888;
 <body>
 <div class="container">
 <h1>⛔ OFFLINE IN SOLIDARITY</h1>
-<p>This website is intentionally paused for 24 hours to protest the ongoing genocide in Gaza.</p>
+<p>This website is intentionally paused for 48 hours to protest the ongoing genocide in Gaza.</p>
 <p><strong>Back online:</strong></p>
 <div class="timer" id="countdown">--:--:--</div>
 <p>Join the call for an immediate ceasefire:</p>
@@ -57,7 +57,7 @@ color: #888;
 <a href="https://gaza.ceasefirenow.org" target="\_blank" rel="noopener">#CeasefireNow</a>
 </p>
 <div class="footer">
-This protest ends automatically in 24 hours.<br />
+This protest ends automatically in 48 hours or more.<br />
 Silence is complicity. We choose to act.<br />
 Hosted via Cloudflare Worker — origin server powered off in protest.
 </div>
@@ -65,7 +65,7 @@ Hosted via Cloudflare Worker — origin server powered off in protest.
 
 
 <script>
-    const endTime = new Date(Date.now() + 24 * 60 * 60 * 1000);
+    const endTime = new Date(Date.now() + 48 * 60 * 60 * 1000);
     const countdownEl = document.getElementById('countdown');
 
     function update() {
