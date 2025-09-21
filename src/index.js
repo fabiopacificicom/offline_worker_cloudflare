@@ -7,24 +7,17 @@ const PROTEST_HTML = `<!DOCTYPE html>
 <title>Offline in Solidarity with Gaza</title>
 <meta name="description" content="This website is offline for 48+ hours in protest of the ongoing genocide in Gaza. Silence is complicity. We choose to act.">
 
-<!-- Open Graph / Facebook / WhatsApp -->
+<!-- Open Graph / LinkedIn / Facebook / WhatsApp -->
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://offline-worker-gaza-2025.signups-a98.workers.dev/">
-<meta property="og:title" content="⛔ OFFLINE IN SOLIDARITY WITH GAZA">
-<meta property="og:description" content="This website is intentionally paused to protest the genocide in Gaza. Join the call for an immediate ceasefire.">
+<meta property="og:title" content="⛔ This Website Is Offline in Solidarity with Gaza">
+<meta property="og:description" content="We’ve paused this site for 48 hours to protest the genocide in Gaza. Join us in demanding an immediate ceasefire and supporting life-saving aid through PCRF — 12 years of 4-star rated humanitarian relief for children.">
 <meta property="og:image" content="https://raw.githubusercontent.com/fabiopacificicom/offline_worker_cloudflare/main/src/free_palestine_stop_genocide.jpeg">
-<meta property="og:image:alt" content="Palestinian flag in Gaza's ruins with empty school chairs — symbolizing lost childhoods">
+<meta property="og:image:alt" content="Palestinian flag rising over Gaza’s ruins — empty school chairs symbolize stolen childhoods">
 <meta property="og:site_name" content="Offline in Solidarity">
+<meta property="og:locale" content="en_US">
 
-<!-- Twitter -->
-<meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:site" content="@PCRF"> <!-- or your handle, if you prefer -->
-<meta name="twitter:title" content="⛔ OFFLINE IN SOLIDARITY WITH GAZA">
-<meta name="twitter:description" content="This website is offline for 48 hours to protest the genocide in Gaza. Silence is complicity. We choose to act.">
-<meta name="twitter:image" content="https://raw.githubusercontent.com/fabiopacificicom/offline_worker_cloudflare/main/src/free_palestine_stop_genocide.jpeg">
-<meta name="twitter:image:alt" content="Palestinian flag in Gaza's ruins with empty school chairs">
-
-<!-- Canonical -->
+<!-- Canonical URL (also helps LinkedIn) -->
 <link rel="canonical" href="https://offline-worker-gaza-2025.signups-a98.workers.dev/" />
 
 
