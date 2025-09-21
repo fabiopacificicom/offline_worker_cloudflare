@@ -11,9 +11,9 @@ const PROTEST_HTML = `<!DOCTYPE html>
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://offline-worker-gaza-2025.signups-a98.workers.dev/">
 <meta property="og:title" content="⛔ This Website Is Offline in Solidarity with Gaza">
-<meta property="og:description" content="We’ve paused this site for 48 hours to protest the genocide in Gaza. Join us in demanding an immediate ceasefire and supporting life-saving aid through PCRF — 12 years of 4-star rated humanitarian relief for children.">
+<meta property="og:description" content="We've paused this site for 48 hours to protest the genocide in Gaza. Join us in demanding an immediate ceasefire and supporting life-saving aid through PCRF — 12 years of 4-star rated humanitarian relief for children.">
 <meta property="og:image" content="https://raw.githubusercontent.com/fabiopacificicom/offline_worker_cloudflare/main/src/free_palestine_stop_genocide.jpeg">
-<meta property="og:image:alt" content="Palestinian flag rising over Gaza’s ruins — empty school chairs symbolize stolen childhoods">
+<meta property="og:image:alt" content="Palestinian flag rising over Gaza's ruins — empty school chairs symbolize stolen childhoods">
 <meta property="og:site_name" content="Offline in Solidarity">
 <meta property="og:locale" content="en_US">
 
