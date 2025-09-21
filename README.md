@@ -1,4 +1,4 @@
-# ⛔ Offline in Solidarity with Gaza — Cloudflare Worker Protest
+# ⛔ Offline in Solidarity with Gaza
 
 > _“Your contribution is more than a donation; it’s a lifeline for these vulnerable children. It means access to medical care, mental health support, and essential supplies.”_ — [PCRF](https://www.pcrf.net)
 
@@ -6,6 +6,12 @@ This Cloudflare Worker intentionally takes your website offline for 48 hours as 
 
 Built for developers, activists, and allies who believe **silence is complicity**.
 
+## Plain html project page
+
+If you want to use the protest page as plain html, you can find it here:
+[PlainHTML](https://bitbucket.org/fbhood/gaza.neverslave.com/src/main/)
+
+## Worker for Cloudflare
 ---
 
 ## ✨ Features
