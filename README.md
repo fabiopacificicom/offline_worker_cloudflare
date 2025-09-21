@@ -1,14 +1,3 @@
-Absolutely — here’s your **complete, ready-to-paste `README.md`**, incorporating:
-
-- Your deployment method (Cloudflare Dashboard)
-- Your `wrangler.toml` structure
-- Official PCRF mission, campaign, and impact language
-- Social preview setup
-- Clear instructions for others to reuse or adapt
-
-Just copy and paste this entire block into your repo’s `README.md` file.
-
-```markdown
 # ⛔ Offline in Solidarity with Gaza — Cloudflare Worker Protest
 
 > _“Your contribution is more than a donation; it’s a lifeline for these vulnerable children. It means access to medical care, mental health support, and essential supplies.”_ — [PCRF](https://www.pcrf.net)
@@ -158,7 +147,7 @@ No permission needed. Attribution appreciated.
 ---
 
 _This Worker does not collect data, track users, or serve ads. It exists to disrupt, to mourn, and to mobilize._
-```
+
 
 ---
 
