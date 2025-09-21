@@ -1,0 +1,8 @@
+name = "gaza-protest"
+main = "src/index.js"
+compatibility_date = "2024-06-01"
+
+# Optional: Set your account ID if deploying via CLI
+# account_id = "your-account-id-here"
+
+# Optional: Workers Sites or other features not needed here
