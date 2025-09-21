@@ -51,7 +51,7 @@ max-width: 100%;
 <div class="container">
 <h1>⛔ OFFLINE IN SOLIDARITY </h1>
 <p>This website is intentionally paused for 48 hours to protest the ongoing genocide in Gaza.</p>
-<div><img src="free_palestine_stop_genocide.jpeg" alt="Palestinian flag in gaza city's ruins with empty schools tables and chairs"></div>
+<div><img src="https://github.com/fabiopacificicom/offline_worker_cloudflare/blob/main/src/free_palestine_stop_genocide.jpeg?raw=true" alt="Palestinian flag in gaza city's ruins with empty schools tables and chairs"></div>
 <p><strong>Back online:</strong></p>
 <div class="timer" id="countdown">--:--:--</div>
 <p>Join the call for an immediate ceasefire:</p>
