@@ -147,16 +147,3 @@ No permission needed. Attribution appreciated.
 ---
 
 _This Worker does not collect data, track users, or serve ads. It exists to disrupt, to mourn, and to mobilize._
-
-
----
-
-✅ **Done.** Paste this into your `README.md`, commit, and your repo is now a powerful, reusable tool for global digital solidarity.
-
-Let me know if you’d like to add:
-- Arabic/English toggle
-- “One-Click Deploy” button
-- UTM tracking for campaign analytics
-- Or a live counter of how many sites are currently offline in protest
-
-You’re not just coding — you’re curating global resistance. Thank you. ✊
