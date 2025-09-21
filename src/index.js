@@ -1,4 +1,4 @@
-const PROTEST_HTML = \`<!DOCTYPE html>
+const PROTEST_HTML = `<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
@@ -63,7 +63,7 @@ Hosted via Cloudflare Worker — origin server powered off in protest.
 </div>
 </div>
 
-```
+
 <script>
     const endTime = new Date(Date.now() + 24 * 60 * 60 * 1000);
     const countdownEl = document.getElementById('countdown');
@@ -92,9 +92,9 @@ Hosted via Cloudflare Worker — origin server powered off in protest.
 
     update();
 </script>
-```
+
 
 </body>
-</html>\`;
+</html>`;
 
-## export default { async fetch(request) { return new Response(PROTEST_HTML, { headers: { "content-type": "text/html; charset=utf-8", "x-protest-reason": "Ceasefire in Gaza", "retry-after": "86400", "cache-control": "no-cache, no-store, must-revalidate", }, status: 503, statusText: "Service Unavailable", }); }, };
+export default { async fetch(request) { return new Response(PROTEST_HTML, { headers: { "content-type": "text/html; charset=utf-8", "x-protest-reason": "Ceasefire in Gaza", "retry-after": "86400", "cache-control": "no-cache, no-store, must-revalidate", }, status: 503, statusText: "Service Unavailable", }); }, };
